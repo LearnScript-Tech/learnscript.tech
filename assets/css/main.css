@@ -522,8 +522,7 @@ color: #fff;
 .nav-item .nav-link {
   display: block;
   line-height: 50px;
-  text-transform: capitalize;
-  /* font-weight: 50px; */
+  font-weight: 400; 
   color: #000;
   transition: 0.5s;
   font-size: 1.1rem;
@@ -577,7 +576,7 @@ color: #fff;
   background-color: #6651c4;
 }
 
-header{
+.header{
   background-color: transparent !important;
 }
 
