@@ -986,12 +986,13 @@ transition: 1s ease;
     overflow-x: hidden;
 }
 .new_footer_area .footer_bottom {
-  padding-top: 5px;
-  padding-bottom: 50px;
+  padding: 20px 0px 5px 0px;
+  left: 50px;
+  right: 20px;
 }
 .footer_bottom {
-  font-size: 14px;
-  font-weight: 300;
+  font-size: 17px;
+  font-weight: 350;
   line-height: 20px;
   color: #e0072f;
   padding: 27px 0px;
